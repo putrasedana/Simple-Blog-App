@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Welcome party!",
+      "body": "lorem ipsum...",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "lorem ipsum...",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "Hello Ninjas",
+      "body": "hi there",
+      "author": "mario",
+      "id": 8
+    },
+    {
+      "title": "a",
+      "body": "a",
+      "author": "luigi",
+      "id": 9
+    }
+  ]
+}
